@@ -1,0 +1,12 @@
+<suite name="regression">
+<test name ="execution">
+
+<classes>
+<class name="basictest.dataprovder2">
+</class>
+<class name="basictest.dataprovder2">
+</class>
+
+</classes>
+</test>
+</suite>

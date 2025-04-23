@@ -1,0 +1,16 @@
+<suite name="regression" thread-count="5" parallel="tests">
+
+	<test name="execution">
+		<classes>
+			<class name="basictest.dataprovder2"></class>
+			<class name="basictest.dataprovder2"></class>
+
+		</classes>
+	</test>
+	<test name="execution2">
+		<classes>
+			<class name="basictest.dataprovder2"></class>
+		</classes>
+	</test>
+
+</suite>

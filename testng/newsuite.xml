@@ -1,0 +1,14 @@
+<suite name="regression">
+
+<test name ="execution">
+<classes>
+<class name="basictest.dataprovder2">
+<methods >
+<include name="verifyproduct"></include>
+</methods>
+</class>
+
+
+</classes>
+</test>
+</suite>
